@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently studying computer science at University of Havana
+🌱 I’m a computer science graduate from University of Havana
